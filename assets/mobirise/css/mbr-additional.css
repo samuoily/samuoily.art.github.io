@@ -711,7 +711,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rGMGoA0qIQ {
-  background-image: url("../../../assets/images/33383210281-b84b6cbf8f-c-799x533.jpg");
+  background-image: url("../../../assets/images/hand-brush-finger-color-paint-blue-arm-painting-the-art-of-the-hand-598945-resize-1-1459x1416.jpeg");
 }
 .cid-rGMGoA0qIQ .icons-media-container {
   display: flex;
@@ -739,43 +739,63 @@ section.lazy-placeholder:after {
 .cid-rGMGoA0qIQ H1 {
   color: #ffffff;
 }
-.cid-rGMS7W4jlR {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  position: relative;
-  background-color: #f9f9f9;
+.cid-rGMWvJBeuf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
-.cid-rGMS7W4jlR .card {
-  border-radius: 0px;
-  margin-bottom: -1px;
+.cid-rGMWvJBeuf .title {
+  padding-bottom: 2.5rem;
 }
-.cid-rGMS7W4jlR .card .card-header {
-  border-radius: 0px;
-  border: 0px;
-  padding: 0;
-}
-.cid-rGMS7W4jlR .card .card-header a.panel-title {
-  margin-bottom: 0;
-  font-style: normal;
+.cid-rGMWvJBeuf h4 {
+  width: 85%;
   font-weight: 500;
-  display: block;
-  text-decoration: none !important;
-  margin-top: -1px;
-  line-height: normal;
-}
-.cid-rGMS7W4jlR .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-rGMS7W4jlR .card .card-header a.panel-title h4 {
-  padding: 1.3rem 2rem;
-  border: 1px solid #dfdfdf;
   margin-bottom: 0;
 }
-.cid-rGMS7W4jlR .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
-}
-.cid-rGMS7W4jlR .card .panel-body {
+.cid-rGMWvJBeuf .bottom-line p {
   color: #767676;
+}
+.cid-rGMWvJBeuf .card-wrapper {
+  background-color: #ffffff;
+  background-color: transparent;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rGMWvJBeuf .card-wrapper .card-box {
+  width: 100%;
+}
+.cid-rGMWvJBeuf .card-wrapper .card-box .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.cid-rGMWvJBeuf .card-wrapper .card-box .wrapper .top-line {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rGMWvJBeuf .card-wrapper .card-box .wrapper .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-rGMWvJBeuf .card-wrapper .card-box .wrapper .bottom-line {
+    width: 100%;
+  }
+  .cid-rGMWvJBeuf .card-wrapper .card-box .wrapper .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rGMWvJBeuf .card.pb-5 {
+    padding-bottom: 2rem !important;
+  }
+  .cid-rGMWvJBeuf .wrapper {
+    padding-top: 1rem;
+  }
 }
 .cid-rGMLNh2PSI {
   padding-top: 45px;
@@ -1054,61 +1074,6 @@ section.lazy-placeholder:after {
 }
 .cid-rGMLNh2PSI .content-slider-wrap {
   width: 60%;
-}
-.cid-rGMTQE6t12 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #ffffff, #c1c1c1);
-}
-.cid-rGMTQE6t12 .list-group-item {
-  padding: .75rem 3.25rem;
-}
-.cid-rGMTQE6t12 .plan {
-  word-break: break-word;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #767676;
-}
-.cid-rGMTQE6t12 .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-}
-.cid-rGMTQE6t12 .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-rGMTQE6t12 .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-rGMTQE6t12 .plan-header {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-rGMTQE6t12 .plan-header,
-.cid-rGMTQE6t12 .plan-body {
-  background-color: #fff;
-}
-.cid-rGMTQE6t12 .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-.cid-rGMTQE6t12 .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-rGMTQE6t12 .price-figure {
-    font-size: 4.25rem;
-  }
 }
 .cid-rGMPnXJKyl {
   padding-top: 90px;
